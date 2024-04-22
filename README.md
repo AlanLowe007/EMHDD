@@ -18,7 +18,10 @@ Over six months, we collected urban road videos covering various scenarios such 
 **We are gradually opening up.**
 
 1. From June 2023 to December 2023, this more comprehensive dataset was finally constructed through collection, screening, annotation, and other work.
-2. On April 18, 2024, we created this warehouse to publicly disclose our work and presented relevant introductions and examples.
+2. We created this warehouse to publicly disclose our work and presented relevant introductions and examples(April 18, 2024).
+3. We have submitted a report to the relevant departments, and after the report, we will gradually open up the dataset (April 20, 2024).
+4. We have updated some of the detector stage data in `/Detector/1. Daytime/` (April 22, 2024).
+5. 
 
 
 
