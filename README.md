@@ -1,7 +1,7 @@
 # EMHDD
 Enhanced Motorcycle Helmet Detection Dataset
 
-
+The dataset involves some portrait rights. If there is any infringement, please contact us to delete it.
 
 ## 1. Abstract
 
@@ -17,11 +17,12 @@ Over six months, we collected urban road videos covering various scenarios such 
 
 **We are gradually opening up.**
 
-1. From June 2023 to December 2023, this more comprehensive dataset was finally constructed through collection, screening, annotation, and other work.
-2. We created this warehouse to publicly disclose our work and presented relevant introductions and examples(April 18, 2024).
-3. We have submitted a report to the relevant departments, and after the report, we will gradually open up the dataset (April 20, 2024).
-4. We have updated some of the detector stage data in `/Detector/1. Daytime/` (April 22, 2024).
-5. 
+1. This more comprehensive dataset was finally constructed through collection, screening, annotation, and other work.(`From June 2023 to December 2023`)
+2. We created this warehouse to publicly disclose our work and presented relevant introductions and examples(`April 18, 2024`).
+3. This dataset may have an impact on national security, and we have submitted an application to the relevant department(`April 20, 2024`). Before the application is approved, only some data examples will be provided. After approval, we will fully open the dataset.
+4. We have updated some of the detector stage data in `/Detector/1. Daytime/` (`April 22, 2024`).
+5. We have updated some of the recognizer stage data in `/Recognizer/1. Daytime/` (`April 22, 2024`).
+6. 
 
 
 
